@@ -49,3 +49,9 @@ figures/
 - Uncertainty quantification
 - Hybrid AI-physics forecasting
 - Arctic decision-support applications
+
+## Results
+
+Linear Regression MAE: 3.43 m/s
+XGBoost MAE: 3.85 m/s
+Linear Regression achieved the best performance for 24-hour wind speed forecasting at an offshore location near Svalbard.

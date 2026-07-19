@@ -116,7 +116,7 @@ figures/wave_height_svalbard.png
 
 ### Forecast Model Comparison
 
-figures/model_comparison.png
+!Model Comparison
 
 | Model | Mean Absolute Error (MAE) |
 |---------|---------|

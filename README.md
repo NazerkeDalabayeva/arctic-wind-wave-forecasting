@@ -108,15 +108,15 @@ Target variable:
 
 ### Wind Speed at Svalbard
 
-figures/wind_speed_svalbard.png
+./figures/wind_speed_svalbard.png
 
 ### Significant Wave Height at Svalbard
 
-figures/wave_height_svalbard.png
+./figures/wave_height_svalbard.png
 
 ### Forecast Model Comparison
 
-!Model Comparison
+./figures/model_comparison.png
 
 | Model | Mean Absolute Error (MAE) |
 |---------|---------|

@@ -6,7 +6,7 @@ figures/wind_speed_svalbard.png
 
 ### Significant Wave Height at Svalbard
 
-!Wave Height
+Wave Height
 
 ### Forecast Model Comparison
 

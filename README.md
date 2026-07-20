@@ -1,4 +1,4 @@
-# Arctic Marine Forecasting Under Uncertainty
+# AI-Enabled Arctic Maritime Forecasting and Decision Support Under Uncertainty
 
 Machine learning forecasting of Arctic marine conditions using ERA5 atmospheric, oceanographic, and sea-ice data.
 

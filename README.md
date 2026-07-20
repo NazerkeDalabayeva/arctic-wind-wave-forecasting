@@ -1,6 +1,6 @@
 # AI-Enabled Arctic Maritime Forecasting and Decision Support Under Uncertainty
 
-Machine learning forecasting of Arctic marine conditions using ERA5 atmospheric, oceanographic, and sea-ice data.
+Development of AI-enabled forecasting workflows for Arctic maritime operations using ERA5 atmospheric, wave, oceanographic and sea-ice datasets. The study investigates short-term environmental prediction and uncertainty quantification to support decision-making in ice-affected waters.
 
 ---
 

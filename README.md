@@ -187,6 +187,7 @@ These relationships demonstrate the interconnected nature of Arctic atmosphere-o
 
 ## Repository Structure
 
+```text
 data/
 ├── raw/
 └── processed/
@@ -205,7 +206,7 @@ src/
 ├── sea_ice_xgboost.py
 ├── sea_ice_model_comparison.py
 └── uncertainty_forecasting.py
-
+```
 ---
 
 ## Technologies

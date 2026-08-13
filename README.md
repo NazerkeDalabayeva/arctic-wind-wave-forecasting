@@ -1,4 +1,4 @@
-# AI-Enabled Arctic Maritime Forecasting and Decision Support Under Uncertainty
+# AI-Enabled Arctic Sea-Ice Forecasting and Decision Support Under Uncertainty
 
 Development of AI-enabled forecasting workflows for Arctic maritime operations using ERA5 atmospheric, oceanographic, wave, and sea-ice datasets. The project investigates short-term environmental prediction and uncertainty quantification to support decision-making in ice-affected waters and the Arctic Marginal Ice Zone (MIZ).
 
